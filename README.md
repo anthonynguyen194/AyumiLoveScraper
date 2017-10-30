@@ -10,6 +10,9 @@ The purpose of this script was to load and parse through all possible game guide
 * Python 3 or more is needed.
 * Beautiful Soup v4.6.4 lib needs to be installed: https://www.crummy.com/software/BeautifulSoup/
 
+## How-To-Run
+* On Linux: Assuming you have Python 3 installed run the command **python AyumiloveScraper_v2.py**
+
 ## Bugs/Issues
-* Script is *OUTDATED* as of writing this README I have not tested it on the current website.
+* Script is **OUTDATED** as of writing this README I have not tested it on the current website.
 * Can crash if certain elements of the webpage has changed or been moved.
