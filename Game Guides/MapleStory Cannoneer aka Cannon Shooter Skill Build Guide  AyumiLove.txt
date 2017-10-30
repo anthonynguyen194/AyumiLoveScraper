@@ -1,0 +1,61 @@
+Cannoneer Beginner Skill Build: Everything maxed.
+ Explanation:
+ All the skills above are special traits that only belongs to Cannoneer. No SP is required to be channeled into any of the skills above.
+~End_Of_Section~
+Cannoneer 1st Job Skill Build: Everything maxed.
+ 1. Cannon Blaster (1)
+ 2. Monkey Push (MAX)
+ 3. Cannon Boost (MAX)
+ 4. Cannon Blaster (MAX)
+ 5. Blast Back (MAX)
+ 6. Cannon Strike (MAX)
+~End_Of_Section~
+Cannoneer 2nd Job Skill Build: Everything maxed except Scatter Shot.
+ 1. Scatter Shot (1) Barrel Bomb (1)
+ 2. Cannon Mastery (5)
+ 3. Cannon Booster (6)
+ 4. Cannon Mastery (MAX)
+ 5. Pirate Training (MAX)
+ 6. Scatter Shot (15/20)
+ 7. Monkey Magic (MAX)
+ 8. Critical Fire (MAX)
+ 9. Cannon Booster (MAX)
+ 10. Barrel Bomb (MAX)
+~End_Of_Section~
+Cannoneer 3rd Job Skill Build: Everything maxed except Cannon Spike.
+ 1. Cannon Spike (1) Cannon Jump (1) Monkey Fury (1)
+ 2. Reinforced Cannon (MAX)
+ 3. Cannon Jump (MAX)
+ 4. Cannon Spike (19/20)
+ 5. Monkey Fury (MAX)
+ 6. Luck of the Dice (MAX)
+ 7. Pirate Rush (MAX)
+ 8. Counter Crush (MAX)
+ 9. Monkey Wave (MAX)
+ 10. Barrel Roulette (MAX)
+~End_Of_Section~
+Cannoneer 4th Job Skill Build: Everything maxed.
+ 1. Cannon Bazooka, Cannon Barrage, Cannon Overload, Anchors Aweigh (1)
+ 2. Double Down (MAX)
+ 3. Cannon Overload (MAX)
+ 4. Cannon Bazooka (MAX)
+ 5. Cannon Barrage (MAX)
+ 6. Anchors Aweigh (MAX)
+ 7. Pirate's Spirit (MAX)
+ 8. Monkey Militia (MAX)
+ 9. Mega Monkey Magic (MAX)
+ 10. Maple Warrior (MAX)
+ 11. Nautilus Strike (MAX)
+ 12. Hero's Will (MAX)
+ 13. Extra 55 SP
+~End_Of_Section~
+Cannoneer Hyper Skill Build:
+ 1. Cannon Bazooka - Spread (MAX)
+ 2. Cannon Bazooka - Reinforce (MAX)
+ 3. Cannon Bazooka -Extra Strike (MAX)
+ 4. Cannon Barrage - Extra Strike (MAX)
+ 5. Cannon Barrage - Reinforce (MAX)
+ 6. Buckshot (MAX)
+ 7. Rolling Rainbow (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~

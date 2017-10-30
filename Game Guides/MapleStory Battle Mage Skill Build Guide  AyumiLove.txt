@@ -1,0 +1,57 @@
+Battle Mage 1st Job Skill Build (65SP): Everything maxed.
+ 0. Condemnation (auto-maxed)
+ 1. Triple Blow, Hasty Aura, Combat Teleport, Staff Artist (1)
+ 2. Combat Teleport (MAX)
+ 3. Hasty Aura (MAX)
+ 4. Staff Artist (MAX)
+ 5. Triple Blow (MAX)
+~End_Of_Section~
+Battle Mage 2nd Job Skill Build (94SP): Everything maxed except Quad Blow.
+ 0. Grim Contract I (auto-maxed).
+ 1. Quad Blow, Dark Chain, Draining Aura, Staff Mastery (1)
+ 2. Staff Mastery (5)
+ 3. Staff Boost (6)
+ 4. Staff Mastery (MAX)
+ 5. High Wisdom (MAX)
+ 6. Staff Boost (MAX)
+ 7. Quad Blow (19/20)
+ 8. Ordinary Conversion (MAX)
+ 9. Draining Aura (MAX)
+ 10. Dark Chain (MAX)
+~End_Of_Section~
+Battle Mage 3rd Job Skill Build (124SP): Everything maxed except Quintuple Blow.
+ 0. Grim Contract II (auto-maxed)
+ 1. Quintuple Blow, Battle Burst, Dark Shock, Blue Aura (1)
+ 2. Battle Mastery (MAX)
+ 3. Quintuple Blow (19/20)
+ 4. Dark Shock (MAX)
+ 5. Dark Conditioning (MAX)
+ 6. Blue Aura (MAX)
+ 7. Power Stance (MAX)
+ 8. Battle Burst (MAX)
+~End_Of_Section~
+Battle Mage 4th Job Skill Build (255 SP): Everything maxed.
+ 0. Grim Contract III (auto-maxed)
+ 1. Finishing Blow, Dark Genesis, Dark Aura, Staff Expert (1)
+ 2. Battle Rage, Party Shield, Spell Boost (1)
+ 3. Staff Expert (MAX)
+ 4. Spell Boost (MAX)
+ 5. Finishing Blow (MAX)
+ 6. Dark Aura (MAX)
+ 7. Dark Genesis (MAX)
+ 8. Maple Warrior (MAX)
+ 9. Battle Rage (MAX)
+ 10. Party Shield (MAX)
+ 11. Weakening Aura (MAX)
+ 12. Hero's Will (MAX)
+~End_Of_Section~
+Battle Mage Hyper Skill Build Guide:
+ 1. Dark Genesis - Additional Reinforce (MAX)
+ 2. Dark Aura - Boss Rush (MAX)
+ 3. Party Shield - Enhance (MAX)
+ 4. Party Shield - Cooldown Cutter (MAX)
+ 5. Party Shield - Persist (MAX)
+ 6. Battle Master (MAX)
+ 7. Sweeping Staff (MAX)
+ 8. For Liberty (MAX)
+~End_Of_Section~

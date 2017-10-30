@@ -1,0 +1,52 @@
+Angelic Buster Beginner Skill Build: Everything maxed.
+ Explanation: These are Angelic Buster's innate abilities. No SP required.
+~End_Of_Section~
+Angelic Buster 1st Job Skill Build: Everything maxed.
+ 1. Star Bubble (1)
+ 2. Feather Hop (MAX)
+ 3. Affinity Heart I (MAX)
+ 4. Star Bubble (MAX)
+ 5. Melody Cross (MAX)
+~End_Of_Section~
+Angelic Buster 2nd Job Skill Build: Everything maxed except Lovely Sting.
+ 1. Pink Pummel, Lovely Sting (1)
+ 2. Soul Shooter Mastery (MAX)
+ 3. Beautiful Soul (MAX)
+ 4. Affinity Heart II (MAX)
+ 5. Pink Pummel (MAX)
+ 6. Lovely Sting (19/20)
+ 7. Power Transfer (MAX)
+~End_Of_Section~
+Angelic Buster 3rd Job Skill Build: Everything maxed except Shining Star Burst.
+ 1. Heavenly Crash (1)
+ 2. Dragon Whistle (MAX)
+ 3. Heavenly Crash (MAX)
+ 4. Affinity Heart III (MAX)
+ 5. Iron Blossom (MAX)
+ 6. Love Me Heart (MAX)
+ 7. Soul Seeker (MAX)
+ 8. Shining Star Burst (14/20)
+~End_Of_Section~
+Angelic Buster 4th Job Skill Build: Everything maxed.
+ 1. Celestial Roar, Affinity Heart IV, Trinity, Finale Ribbon (1)
+ 2. Affinity Heart IV (MAX)
+ 3. Soul Shooter Expert (MAX)
+ 4. Celestial Roar (MAX)
+ 5. Star Gazer (MAX)
+ 6. Trinity (MAX)
+ 7. Soul Seeker Expert (MAX)
+ 8. Finale Ribbon (MAX)
+ 9. Soul Resonance (MAX)
+ 10. Nova Warrior (MAX)
+ 11. Nova Temperance (MAX)
+~End_Of_Section~
+Angelic Buster Hyper Skill Build:
+ 1. Soul Seeker - Make Up (MAX)
+ 2. Soul Seeker - Reinforce (MAX)
+ 3. Finale Ribbon - Cooldown Cutter (MAX)
+ 4. Trinity - Extra Strike (MAX)
+ 5. Trinity - Reinforce (MAX)
+ 6. Pretty Exaltation (MAX)
+ 7. Supreme Supernova (MAX)
+ 8. Final Contract (MAX)
+~End_Of_Section~

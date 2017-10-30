@@ -1,0 +1,57 @@
+Night Walker 1st Job Skill Build: Everything maxed except Lucky Seven.
+ 0. Shadow Dodge, Shadow Jump (auto-maxed)
+ 1. Lucky Seven, Dark Elemental, Shadow Bat (1)
+ 2. Haste (MAX)
+ 3. Lucky Seven (19/20)
+ 4. Shadow Bat (MAX)
+ 5. Dark Elemental (MAX)
+ 6. Dark Sight (MAX)
+~End_Of_Section~
+Night Walker 2nd Job Skill Build: Everything maxed except Triple Throw.
+ 1. Triple Throw, Bat Affinity, Throwing Mastery, Adaptive Darkness (1)
+ 2. Throwing Booster (6)
+ 3. Throwing Mastery (MAX)
+ 4. Throwing Booster (MAX)
+ 5. Physical Training (MAX)
+ 6. Triple Throw (19/20)
+ 7. Adaptive Darkness (MAX)
+ 8. Bat Affinity (MAX)
+ 9. Critical Throw (MAX)
+~End_Of_Section~
+Night Walker 3rd Job Skill Build: Everything maxed except Quad Star.
+ 1. Quad Star, Shadow Spark, Dark Servant, Spirit Projection (1)
+ 2. Bat Affinity II, Alchemic Adrenaline, Darkness Ascending (1)
+ 3. Dark Servant (MAX)
+ 4. Spirit Projection (MAX)
+ 5. Shadow Spark (MAX)
+ 6. Adaptive Darkness II (MAX)
+ 7. Bat Affinity II (MAX)
+ 8. Alchemic Adrenaline (MAX)
+ 9. Quad Star (19/20)
+ 10. Enveloping Darkness (MAX)
+ 11. Darkness Ascending (MAX)
+~End_Of_Section~
+Night Walker 4th Job Skill Build: Everything maxed.
+ 1. Quintuple Star, Dark Omen, Bat Affinity III, Adaptive Darkness III (1)
+ 2. Vitality Siphon, Throwing Expert, Shadow Slip (1)
+ 3. Throwing Expert (MAX)
+ 4. Dark Blessing (MAX)
+ 5. Bat Affinity III (MAX)
+ 6. Adaptive Darkness III (MAX)
+ 7. Shadow Slip (MAX)
+ 8. Quintuple Star (MAX)
+ 9. Cygnus Knights (MAX)
+ 10. Dark Omen (MAX)
+ 11. Vitality Siphon (MAX)
+ 12. Shadow Stitch (MAX)
+~End_Of_Section~
+Night Walker Hyper Skill Build:
+ 1. Quintuple Star - Reinforce (MAX)
+ 2. Quintuple Star - Boss Rush (MAX)
+ 3. Quintuple Star - Critical Chance (MAX)
+ 4. Dark Omen - Cooldown Cutter (MAX)
+ 5. Dark Omen - Reinforce (MAX)
+ 6. Shadow Illusion (MAX)
+ 7. Dominion (MAX)
+ 8. Glory of Guardians (MAX)
+~End_Of_Section~

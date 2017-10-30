@@ -1,0 +1,67 @@
+Kinesis Beginner Skill Build: Everything maxed.
+ Explanation: These are Kinesis 's innate abilities. No SP required.
+~End_Of_Section~
+Kinesis 1st Job Skill Build (65 SP): Everything maxed.
+ 0. Mental Shield (auto-maxed)
+ 1. Mental Fortitude, Kinetic Crash, Ultimate Metal Press, ESP Booster (1)
+ 2. Kinetic Step (MAX)
+ 3. Mental Fortitude (MAX)
+ 4. Kinetic Crash (MAX)
+ 5. ESP Booster (MAX)
+ 6. Ultimate Metal Press (MAX)
+ 7. Psychic Force (MAX)
+~End_Of_Section~
+Kinesis 2nd Job Skill Build (95 SP): Everything maxed.
+ 1. Kinetic Piledriver, Psychic Blast, Ultimate Deep Impact (1)
+ 2. ESP Mastery (MAX)
+ 3. Mental Strength (MAX)
+ 4. Pure Power (MAX)
+ 5. Psychic Armor (MAX)
+ 6. Kinetic Piledriver (MAX)
+ 7. Ultimate Deep Impact (MAX)
+ 8. Psychic Blast (MAX)
+ 9. Psychic Drain (MAX)
+~End_Of_Section~
+Kinesis 3rd Job Skill Build (123 SP): Everything maxed.
+ 1. Psychic Grab, Ultimate Trainwreck, Psychic Assault, Mind Tremor (1)
+ 2. Psychic Assault (MAX)
+ 3. Kinetic Combo (MAX)
+ 4. Psychic Reinforcement (MAX)
+ 5. Third Eye (MAX)
+ 6. Psychic Bulwark (MAX)
+ 7. Mitigation (MAX)
+ 8. Ultimate Trainwreck (MAX)
+ 9. Psychic Grab (MAX)
+ 10. Transcendence (MAX)
+ 11. Mind Tremor (MAX)
+ 12. Psychic Move (MAX)
+~End_Of_Section~
+Kinesis 4th Job Skill Build (255 SP): Everything maxed.
+ 1. Mastery, Ultimate B.P.M, Psychic Clutch (1)
+ 2. Critical Rush, Telepath Tactics, Mind Scrambler (1)
+ 3. Psychic Charger, Mind Break, Mind Quake (1)
+ 4. Clear Mind (1)
+ 5. Mastery (MAX)
+ 6. Telepath Tactics (MAX)
+ 7. Awakening (MAX)
+ 8. Critical Rush (MAX)
+ 9. Mind Scrambler (MAX)
+ 10. Psychic Clutch (MAX)
+ 11. Ultimate B.P.M. (MAX)
+ 12. President's Orders (MAX)
+ 13. Mind Quake (MAX)
+ 14. Supreme Concentration (MAX)
+ 15. Clear Mind (MAX)
+ 16. Psychic Charger (MAX)
+ 17. Mind Break (MAX)
+~End_Of_Section~
+Kinesis Hyper Skill Build:
+ 1. Psychic Grab - Boss Point
+ 2. Psychic Grab - Reinforce
+ 3. Mind Tremor - Overwhelm
+ 4. Mind Tremor - Reinforce
+ 5. Mind Break - Enhance
+ 6. Mental Tempest
+ 7. Mental Shock
+ 8. Mental Overdrive
+~End_Of_Section~

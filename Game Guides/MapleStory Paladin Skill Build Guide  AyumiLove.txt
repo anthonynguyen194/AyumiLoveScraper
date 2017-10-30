@@ -1,0 +1,73 @@
+Swordman Skill Build Guide: Everything maxed with extra 2 SP available.
+ 1. Slash Blast (1), War Leap (3)
+ 2. War Leap (MAX)
+ 3. Slash Blast (MAX)
+ 4. Warrior Mastery (MAX)
+ 5. Iron Body (MAX)
+Page Skill Build Guide: Everything maxed except Close Combat.
+ 0. Elemental Charge (MAX)
+ 1. Flame Charge, Blizzard Charge, Weapon Mastery (1)
+ 2. Weapon Mastery (5)
+ 3. Weapon Booster (6)
+ 4. Weapon Mastery (MAX)
+ 5. Physical Training (MAX)
+ 6. Flame Charge (MAX)
+ 7. Blizzard Charge (MAX)
+ 8. Final Attack (MAX)
+ 9. Weapon Booster (MAX)
+ 10. Close Combat (9/10)
+~End_Of_Section~
+Knight Skill Build Guide: Max everything except HP Recovery, Threaten and Rush.
+ 1. Lightning Charge, Rush, Divine Shield (1)
+ 2. Divine Shield (MAX)
+ 3. HP Recovery (8/10)
+ 4. Combat Orders (MAX)
+ 5. Lightning Charge (MAX)
+ 6. Shield Mastery (MAX)
+ 7. Parashock Guard (MAX)
+ 8. Achilles (MAX)
+ 9. Threaten (18/20)
+ 10. Rush (8/10)
+~End_Of_Section~
+Paladin Skill Build Guide (GMS):
+ 1. Blast, Divine Charge, Advanced Charge (1)
+ 2. Guardian, Heaven's Hammer, High Paladin (1)
+ 3. Advanced Charge (MAX)
+ 4. High Paladin (MAX)
+ 5. Elemental Force (MAX)
+ 6. Divine Charge (MAX)
+ 7. Blast (MAX)
+ 8. Power Stance (MAX)
+ 9. Maple Warrior (MAX)
+ 10. Magic Crash (MAX)
+ 11. Hero's Will (MAX)
+ 12. Heaven's Hammer (MAX)
+ 13. Guardian (MAX)
+ 14. Extra 48 SP.
+~End_Of_Section~
+Paladin Skill Build Guide (MSEA):
+ 1. Blast, Holy Charge, Advanced Charge (1)
+ 2. Guardian Spirit, Sanctuary, Paladin Expert (1)
+ 3. Advanced Charge (MAX)
+ 4. Paladin Expert (MAX)
+ 5. Boyd Elemental (MAX)
+ 6. Holy Charge (MAX)
+ 7. Blast (MAX)
+ 8. Power Stance (MAX)
+ 9. Maple Warrior (MAX)
+ 10. Magic Crash (MAX)
+ 11. Hero's Will (MAX)
+ 12. Sanctuary (MAX)
+ 13. Guardian Spirit (MAX)
+ 14. Extra 48 SP.
+~End_Of_Section~
+Paladin Hyper Skill Build Guide:
+ 1. Blast - Extra Strike (MAX)
+ 2. Blast - Reinforce (MAX)
+ 3. Blast - Critical Chance (MAX)
+ 4. Threaten - Enhance (MAX)
+ 5. Heaven's Hammer - Cooldown Cutter (MAX)
+ 6. Sacrosanctity (MAX)
+ 7. Smite Shield (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~

@@ -1,0 +1,55 @@
+Mechanic 1st Job Skill Build Guide (65 SP): Everything maxed.
+ 1. Humanoid Mech, Gatling Gun, ME-07 Drillhands, Rocket Booster (1)
+ 2. Gatling Gun (MAX)
+ 3. Humanoid Mech (MAX)
+ 4. Rocket Booster (MAX)
+ 5. ME-07 Drillhands (MAX)
+~End_Of_Section~
+Mechanic 2nd Job Skill Build Guide (94 SP): Everything maxed except Heavy Gatling Gun.
+ 1. Heavy Gatling Gun, Homing Beacon, Open Portal: GX-9, Mechanic Mastery (1)
+ 2. Mechanic Mastery (MAX)
+ 3. Physical Training (MAX)
+ 4. Homing Beacon (MAX)
+ 5. Mechanic Rage (MAX)
+ 6. Robo Launcher RM7 (MAX)
+ 7. Open Portal: GX-9 (MAX)
+ 8. Perfect Armor (MAX)
+ 9. Heavy Gatling Gun (14/15)
+~End_Of_Section~
+Mechanic 3rd Job Skill Build Guide (124 SP): Everything maxed except Punch Launcher.
+ 0. Battle Program, Tank Mech (auto-maxed)
+ 1. Heavy Salvo, Punch Launcher, Overclock, Rock n Shock (1)
+ 2. Heavy Salvo (MAX)
+ 3. Overclock (MAX)
+ 4. Rock n Shock (MAX)
+ 5. Roll of the Dice (MAX)
+ 6. Mechanized Defense System (MAX)
+ 7. Support Unit: H-EX (MAX)
+ 8. Advanced Homing Beacon (MAX)
+ 9. Punch Launcher (9/10)
+~End_Of_Section~
+Mechanic 4th Job Skill Build Guide (255 SP): Everything maxed.
+ 1. Heavy Salvo Plus, Enhanced Support Unit, Extreme Mech, Bots 'n Tots (1)
+ 2. Double Down (MAX)
+ 3. Homing Beacon Research (MAX)
+ 4. Heavy Salvo Plus (MAX)
+ 5. Extreme Mech (MAX)
+ 6. Enhanced Support Unit (MAX)
+ 7. Maple Warrior (MAX)
+ 8. Mech Alloy Research (MAX)
+ 9. Robot Mastery (MAX)
+ 10. Bots 'n Tots (MAX)
+ 11. Giant Robot: SG-88 (MAX)
+ 12. Hero's Will (MAX)
+ 13. Homing Beacon Research (MAX)
+~End_Of_Section~
+Mechanic Hyper Skill Build Guide:
+ 1. Salvo - Reinforce (MAX)
+ 2. AP Salvo Plus - Extra Strike (MAX)
+ 3. Heavy Salvo Plus - Spread (MAX)
+ 4. Rock 'n Shock - Cooldown Cutter (MAX)
+ 5. Support Unit: H-EX - Party Reinforce (MAX)
+ 6. Full Spread (MAX)
+ 7. Distortion Bomb (MAX)
+ 8. For Liberty (MAX)
+~End_Of_Section~

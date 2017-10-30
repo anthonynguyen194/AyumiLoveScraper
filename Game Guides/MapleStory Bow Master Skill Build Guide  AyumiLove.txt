@@ -1,0 +1,102 @@
+Archer Skill Build Guide: Everything maxed.
+ 1. Archer Mastery, Arrow Blow (1)
+ 2. Double Jump (MAX)
+ 3. Archer Mastery (MAX)
+ 4. Arrow Blow (MAX)
+ 5. Critical Shot (MAX)
+Hunter - Archer 2nd Job Skill Build (GMS): Everything maxed except Arrow Bomb.
+ 0. Quiver Cartridge is auto-maxed.
+ 1. Arrow Bomb, Soul Arrow: Bow, Covering Fire (1)
+ 2. Bow Mastery (MAX)
+ 3. Soul Arrow: Bow (MAX)
+ 4. Physical Training (MAX)
+ 5. Bow Booster (6)
+ 6. Arrow Bomb (19/20)
+ 7. Final Attack: Bow (MAX)
+ 8. Covering Fire (MAX)
+ 9. Bow Booster (MAX)
+~End_Of_Section~
+Hunter - Archer 2nd Job Skill Build (MSEA): Everything maxed except Arrow Bomb.
+ 0. Quiver Cartridge is auto-maxed.
+ 1. Arrow Bomb, Soul Arrow: Bow, Retreat Shot (1)
+ 2. Bow Mastery (MAX)
+ 3. Soul Arrow: Bow (MAX)
+ 4. Physical Training (MAX)
+ 5. Bow Booster (6)
+ 6. Arrow Bomb (19/20)
+ 7. Final Attack: Bow (MAX)
+ 8. Retreat Shot (MAX)
+ 9. Bow Booster (MAX)
+~End_Of_Section~
+Ranger - Archer 3rd Job Skill Build (GMS): Everything maxed except Flame Surge.
+ 1. Hookshot, Arrow Platter, Flame Surge, Phoenix (1)
+ 2. Reckless Hunt: Bow (MAX)
+ 3. Marksmanship (MAX)
+ 4. Flame Surge (14/20)
+ 5. Phoenix (MAX)
+ 6. Hookshot(MAX)
+ 7. Arrow Platter (MAX)
+ 8. Mortal Blow (MAX)
+ 9. Evasion Boost (MAX)
+ 10. Focused Fury (MAX)
+~End_Of_Section~
+Ranger - Archer 3rd Job Skill Build (MSEA): Everything maxed except Roasting Shot.
+ 1. Schutike Eisen, Arrow Blaster, Roasting Shot, Phoenix (1)
+ 2. Extreme Archery : Bow (MAX)
+ 3. Marksmanship (MAX)
+ 4. Roasting Shot (14/20)
+ 5. Phoenix (MAX)
+ 6. Schutike Eisen (MAX)
+ 7. Arrow Blaster (MAX)
+ 8. Mortal Blow (MAX)
+ 9. Evasion Boost (MAX)
+ 10. Concentration (MAX)
+~End_Of_Section~
+Bow Master - Archer 4th Job Skill Build (GMS): Everything maxed.
+ 1. Arrow Stream, Binding Shot, Hurricane, Enchanted Quiver (1)
+ 2. Enchanted Quiver (MAX)
+ 3. Bow Expert (MAX)
+ 4. Advanced Final Attack (MAX)
+ 5. Arrow Stream (MAX)
+ 6. Sharp Eyes (MAX)
+ 7. Illusion Step (MAX)
+ 8. Hurricane (MAX)
+ 9. Armor Break (MAX)
+ 10. Binding Shot (MAX)
+ 11. Maple Warrior (MAX)
+ 12. Hero Will (MAX)
+~End_Of_Section~
+Bow Master - Archer 4th Job Skill Build (MSEA): Everything maxed.
+ 1. Uncountable Arrow, Binding Shot, Time of Storm, Advanced Quiver (1)
+ 2. Advanced Quiver (MAX)
+ 3. Bow Expert (MAX)
+ 4. Advanced Final Attack (MAX)
+ 5. Uncountable Arrow (MAX)
+ 6. Sharp Eyes (MAX)
+ 7. Illusion Step (MAX)
+ 8. Time of Storm (MAX)
+ 9. Armor Piercing (MAX)
+ 10. Wounds Shot (MAX)
+ 11. Maple Warrior (MAX)
+ 12. Hero Will (MAX)
+~End_Of_Section~
+Bow Master Hyper Skill Build (GMS):
+ 1. Arrow Stream - Reinforce (MAX)
+ 2. Arrow Stream - Extra strike (MAX)
+ 3. Hurricane - Reinforce (MAX)
+ 4. Hurricane - Boss Rush (MAX)
+ 5. Hurricane - Split Attack (MAX)
+ 6. Concentration (MAX)
+ 7. Gritty Gust (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~
+Bow Master Hyper Skill Build (MSEA):
+ 1. Uncountable Arrow - Reinforce (MAX)
+ 2. Uncountable Arrow - Bonus Attack (MAX)
+ 3. Time of Storm - Reinforce (MAX)
+ 4. Time of Storm - Boss Killer (MAX)
+ 5. Time of Storm - Split Attack (MAX)
+ 6. Preparation (MAX)
+ 7. Wind of Frey (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~

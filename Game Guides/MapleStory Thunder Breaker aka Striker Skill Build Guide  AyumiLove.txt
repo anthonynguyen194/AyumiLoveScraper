@@ -1,0 +1,102 @@
+Thunder Breaker 1st Job Skill Build (MSEA): Everything maxed except Shark Jaw.
+ 1. Shark Jaw, Flash, Element Infusion Lightning, Blitz I (1).
+ 2. Blitz I (MAX)
+ 3. Flash (MAX)
+ 4. Shark Jaw (19/20)
+ 5. Element Infusion Lightning (MAX)
+~End_Of_Section~
+Thunder Breaker 1st Job Skill Build (GMS): Everything maxed except Lightning Punch.
+ 1. Lightning Punch, Flash, Lightning Elemental, Electrified (1).
+ 2. Electrified (MAX)
+ 3. Flash (MAX)
+ 4. Lightning Punch (19/20)
+ 5. Lightning Elemental (MAX)
+~End_Of_Section~
+Thunder Breaker 2nd Job Skill Build (MSEA): Everything maxed except Roundwave Kick.
+ 1. Roundwave Kick, Crashing Wave, Knuckle Mastery, Blitz II (1).
+ 2. Knuckle Mastery (5)
+ 3. Knuckle Booster (6)
+ 4. Knuckle Mastery (MAX)
+ 5. Knuckle Booster (MAX)
+ 6. Blitz II (MAX)
+ 7. Training (MAX)
+ 8. Crashing Wave (MAX)
+ 9. Roundwave Kick (19/20)
+~End_Of_Section~
+Thunder Breaker 2nd Job Skill Build (GMS): Everything maxed except Shark Sweep.
+ 1. Shark Sweep, Tidal Crash, Knuckle Mastery, Lightning Boost (1)
+ 2. Knuckle Mastery (5)
+ 3. Knuckle Booster (6)
+ 4. Knuckle Mastery (MAX)
+ 5. Knuckle Booster (MAX)
+ 6. Lightning Boost (MAX)
+ 7. Gains (MAX)
+ 8. Tidal Crash (MAX)
+ 9. Shark Sweep (19/20)
+~End_Of_Section~
+Striker 3rd Job Skill Build (MSEA): Everything maxed except Thunderous Dive.
+ 1. Rising Wave, Thunderous Dive, Whirlwind, Blitz III (1).
+ 2. Blitz III (MAX)
+ 3. Continuous Assault (MAX)
+ 4. Thorned Carapace (MAX)
+ 5. Rising Wave (17/20)
+ 6. Thunderous Dive (17/20)
+ 7. Whirlwind (MAX)
+ 8. Vortex (MAX)
+~End_Of_Section~
+Thunder Breaker 3rd Job Skill Build (GMS): Everything maxed except Thunder and Ascension.
+ 1. Ascension, Thunder, Gale, Lightning Lord (1)
+ 2. Lightning Lord (MAX)
+ 3. Link Mastery (MAX)
+ 4. Ironclad (MAX)
+ 5. Ascension (17/20)
+ 6. Thunder (17/20)
+ 7. Gale (MAX)
+ 8. Seawall (MAX)
+~End_Of_Section~
+Thunder Breaker 4th Job Skill Build (MSEA): Everything maxed.
+ 1. Bolt Anchor, Advanced Whirlwind, Speed Infusion, Annihilation (1)
+ 2. Expert Knuckle Mastery, Blitz IV (1)
+ 3. Static Charge (MAX)
+ 4. Expert Knuckle Mastery (MAX)
+ 5. Blitz IV (MAX)
+ 6. Advanced Whirlwind (MAX)
+ 7. Nerve Stimulation (MAX)
+ 8. Bolt Anchor (MAX)
+ 9. Annihilation (MAX)
+ 10. Cygnus Knights (MAX)
+ 11. Speed Infusion (MAX)
+~End_Of_Section~
+Striker 4th Job Skill Build (GMS): Everything maxed.
+ 1. Thunderbolt, Typhoon, Speed Infusion, Annihilate (1)
+ 2. Knuckle Expert, Thunder God (1)
+ 3. Arc Charger (MAX)
+ 4. Knuckle Expert (MAX)
+ 5. Thunder God (MAX)
+ 6. Typhoon (MAX)
+ 7. Electrify (MAX)
+ 8. Thunderbolt (MAX)
+ 9. Annihilate (MAX)
+ 10. Call of Cygnus (MAX)
+ 11. Speed Infusion (MAX)
+~End_Of_Section~
+Thunder Breaker Hyper Skill Build Guide (MSEA):
+ 1. Annihilation - Reinforce (MAX)
+ 2. Annihilation - Ignore Defense (MAX)
+ 3. Annihilation - Boss Killer (MAX)
+ 4. Bolt Anchor - Bonus Attack (MAX)
+ 5. Bolt Anchor - Reinforce (MAX)
+ 6. Extreme Blitz (MAX)
+ 7. Tidal Wave (MAX)
+ 8. Glory of Guardians (MAX)
+~End_Of_Section~
+Thunder Breaker Hyper Skill Build Guide (GMS):
+ 1. Annihilate - Reinforce (MAX)
+ 2. Annihilate - Guardbreak (MAX)
+ 3. Annihilate - Boss Rush (MAX)
+ 4. Thunderbolt - Extra Strike (MAX)
+ 5. Thunderbolt - Reinforce (MAX)
+ 6. Primal Bolt (MAX)
+ 7. Deep Rising (MAX)
+ 8. Glory of the Guardians (MAX)
+~End_Of_Section~

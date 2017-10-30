@@ -1,0 +1,57 @@
+Luminous Beginner Skill Build: Everything maxed.
+ Explanation: Skills listed above are Luminous's innate abilities. No SP required.
+~End_Of_Section~
+Luminous 1st Job Skill Build: Everything maxed.
+ 1. Flash Shower (1)
+ 2. Light Speed (MAX)
+ 3. Light/Dark Affinity (MAX)
+ 4. Mana Well (MAX)
+ 5. Flash Shower (MAX)
+ 6. Standard Magic Guard (MAX)
+ 7. Abyssal Shower (MAX)
+~End_Of_Section~
+Luminous 2nd Job Skill Build: Everything maxed except Blinding Pillar.
+ 0. Pressure Void, Sylvan Lance (1) - Added upon job advancement.
+ 1. Spell Booster (4)
+ 2. Spell Mastery (MAX)
+ 3. High Wisdom (MAX)
+ 4. Black Blessing (MAX)
+ 5. Sylvan Lance (MAX)
+ 6. Spell Booster (MAX)
+ 7. Pressure Void (MAX)
+ 8. Blinding Pillar (9/10)
+~End_Of_Section~
+Luminous 3rd Job Skill Build: Everything maxed except Moonlight Spear.
+ 1. Moonlight Spear, Spectral Light, Death Scythe, Ray of Redemption (1).
+ 2. Photic Meditation (MAX)
+ 3. Lunar Tide (MAX)
+ 4. Dusk Guard (MAX)
+ 5. Spectral Light (MAX)
+ 6. Death Scythe (MAX)
+ 7. Ray of Redemption (MAX)
+ 8. Shadow Shell (MAX)
+ 9. Moonlight Spear (4/20)
+~End_Of_Section~
+Luminous 4th Job Skill Build: Everything maxed.
+ 1. Reflection, Apocalypse, Ender, Morning Star (1)
+ 2. Darkness Mastery (MAX)
+ 3. Magic Mastery (MAX)
+ 4. Dark Crescendo (MAX)
+ 5. Arcane Pitch (MAX)
+ 6. Reflection (MAX)
+ 7. Ender (MAX)
+ 8. Apocalypse (MAX)
+ 9. Maple Warrior (MAX)
+ 10. Morning Star (MAX)
+ 11. Hero's Will (MAX)
+~End_Of_Section~
+Luminous Hyper Skill Build Guide:
+ 1. Reflection - Spread (MAX)
+ 2. Reflection - Range Up (MAX)
+ 3. Apocalypse - Recharge (MAX)
+ 4. Apocalypse - Extra Target (MAX)
+ 5. Ender - Extra Target (MAX)
+ 6. Equalize (MAX)
+ 7. Armageddon (MAX)
+ 8. Heroic Memories (MAX)
+~End_Of_Section~

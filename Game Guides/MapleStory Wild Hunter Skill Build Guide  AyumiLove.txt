@@ -1,0 +1,57 @@
+Wild Hunter 1st Job Skill Build Guide (65 SP): Everything maxed.
+ 0. Summon Jaguar, Jaguar Management, Jaguar Rider, Swipe, Wild Lure (auto-maxed).
+ 1. Double Shot (1)
+ 2. Double Jump (MAX)
+ 3. Resistance Auto Crank (MAX)
+ 3. Double Shot (MAX)
+ 4. Nature's Wrath (MAX)
+~End_Of_Section~
+Wild Hunter 2nd Job Skill Build Guide (94 SP): Everything maxed except Triple Shot.
+ 0. Dash 'n Slash auto-maxed.
+ 1. Triple Shot (1)
+ 2. Crossbow Mastery (5)
+ 3. Crossbow Booster, Call of the Wild, Soul Arrow: Crossbow (1)
+ 4. Crossbow Mastery (MAX)
+ 5. Physical Training (MAX)
+ 6. Soul Arrow: Crossbow (MAX)
+ 7. Call of the Wild (MAX)
+ 8. Crossbow Booster (MAX)
+ 9. Jaguar Mastery (MAX)
+ 10. Triple Shot (19/20)
+ 11. Final Attack (MAX)
+~End_Of_Section~
+Wild Hunter 3rd Job Skill Build Guide (124 SP): Everything maxed except Enduring Fire.
+ 0. Sonic Roar auto-maxed.
+ 1. Enduring Fire, White Heat Rush, Hunting Assistant Unit, Jaguar Link, Backstep (1)
+ 2. Feline Berserk (MAX)
+ 3. Flurry (MAX)
+ 4. Jaguar Link (MAX)
+ 5. Hunting Assistant Unit (MAX)
+ 6. Enduring Fire (19/20)
+ 7. Backstep (MAX)
+ 8. White Heat Rush (MAX)
+~End_Of_Section~
+Wild Hunter 4th Job Skill Build Guide (304 SP): Everything maxed.
+ 0. Jaguar Soul auto-maxed.
+ 1. Wild Arrow Blast, Drill Salvo, Crossbow Expert, Advanced Final Attack (1)
+ 2. Crossbow Expert (MAX)
+ 3. Wild Instinct (MAX)
+ 4. Advanced Final Attack (MAX)
+ 5. Extended Magazine (MAX)
+ 6. Wild Arrow Blast (MAX)
+ 7. Maple Warrior (MAX)
+ 8. Sharp Eyes (MAX)
+ 9. Drill Salvo (MAX)
+ 10. Natural Force (MAX)
+ 11. Hero's Will (MAX)
+~End_Of_Section~
+Wild Hunter Hyper Skill Build Guide:
+ 1. Wild Arrow Blast - Boss Rush (MAX)
+ 2. Wild Arrow Blast - Reinforce (MAX)
+ 3. Feline Berserk - Reinforce (MAX)
+ 4. Summon Jaguar - Reinforce (MAX)
+ 5. Summon Jaguar - Enhance (MAX)
+ 6. Silent Rampage (MAX)
+ 7. Exploding Arrows (MAX)
+ 8. For Liberty (MAX)
+~End_Of_Section~

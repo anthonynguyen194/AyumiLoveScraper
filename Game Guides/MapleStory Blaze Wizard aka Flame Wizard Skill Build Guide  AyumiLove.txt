@@ -1,0 +1,54 @@
+Blaze Wizard 1st Job Skill Build (64SP): Everything maxed except Flame Bite.
+ 1. Orbital Flame, Flame Elemental, Firewalk (1)
+ 2. Natural Talent (MAX)
+ 3. Flame Elemental (MAX)
+ 4. Fire Repulsion (MAX)
+ 5. Orbital Flame (MAX)
+ 6. Firewalk (MAX)
+ 7. Flame Bite (19/20)
+~End_Of_Section~
+Blaze Wizard 2nd Job Skill Build (94SP): Everything maxed except Flame Vortex.
+ 1. Greater Orbital Flame, Flame Vortex, Word of Fire, Flashfire (1)
+ 2. Spell Control (MAX)
+ 3. Word of Fire (MAX)
+ 4. Flashfire (MAX)
+ 5. Greater Orbital Flame (MAX)
+ 6. Greater Flame Elemental (MAX)
+ 7. Ignition (MAX)
+ 8. Controlled Burn (MAX)
+ 9. Flame Vortex (19/20)
+~End_Of_Section~
+Blaze Wizard 3rd Job Skill Build (124SP): Everything maxed except Flame Tempest.
+ 1. Grand Orbital Flame, Flame Tempest, Burning Focus, Liberated Magic (1)
+ 2. Grand Orbital Flame (MAX)
+ 3. Liberated Magic (MAX)
+ 4. Grand Flame Elemental (MAX)
+ 5. Brilliant Enlightenment (MAX)
+ 6. Burning Focus (MAX)
+ 7. Cinder Maelstrom (MAX)
+ 8. Phoenix Run (MAX)
+ 9. Flame Tempest (19/20)
+~End_Of_Section~
+Blaze Wizard 4th Job Skill Build (304SP): Everything maxed.
+ 1. Final Orbital Flame, Blazing Extinction, Fires of Creation, Burning Conduit (1)
+ 2. Final Orbital Flame (MAX)
+ 3. Pure Magic (MAX)
+ 4. Final Flame Elemental (MAX)
+ 5. Blazing Extinction (MAX)
+ 6. Fires of Creation (MAX)
+ 7. Call of Cygnus (MAX)
+ 8. Burning Conduit (MAX)
+ 9. Wild Blaze (MAX)
+ 10. Towering Inferno (MAX)
+ 11. Flame Barrier (MAX)
+~End_Of_Section~
+ Blaze Wizard Hyper Skill Build:
+ 1. Orbital Flame - Guardbreak
+ 2. Orbital Flame - Split Attack
+ 3. Ignition - Max Ignition
+ 4. Ignition - Reinforce
+ 5. Blazing Extinction - Add Attack
+ 6. Dragon Blaze (MAX)
+ 7. Cataclysm (MAX)
+ 8. Glory of the Guardians (MAX)
+~End_Of_Section~

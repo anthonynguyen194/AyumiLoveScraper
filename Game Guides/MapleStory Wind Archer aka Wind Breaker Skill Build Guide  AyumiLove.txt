@@ -1,0 +1,100 @@
+Wind Archer 1st Job Skill Build (MSEA): Everything maxed except Breeze Shot.
+ 1. Breeze Shot (1)
+ 2. Wind Walk (MAX)
+ 3. Whispers of the Wind (MAX)
+ 4. Breeze Shot (19/20)
+ 5. Element Infusion : Wind (MAX)
+~End_Of_Section~
+Wind Archer 1st Job Skill Build (GMS): Everything maxed except Breeze Arrow.
+ 1. Breeze Arrow (1)
+ 2. Wind Walk (MAX)
+ 3. Whispers of the Wind (MAX)
+ 4. Breeze Arrow (19/20)
+ 5. Storm Elemental (MAX)
+~End_Of_Section~
+Wind Archer 2nd Job Skill Build (MSEA): Everything maxed except Gust Shot.
+ 1. Wind Flourish, Gust Shot, Trifling Whim I (1)
+ 2. Bow Mastery (MAX)
+ 3. Sylphs Aid (MAX)
+ 4. Physical Training (MAX)
+ 5. Bow Booster (MAX)
+ 6. Wind Flourish (MAX)
+ 7. Trifling Whim I (MAX)
+ 8. Gust Shot (19/20)
+~End_Of_Section~
+Wind Archer 2nd Job Skill Build (GMS): Everything maxed except Gust Shot.
+ 1. Fairy Spiral, Gust Shot, Trifling Wind I (1)
+ 2. Bow Mastery (5)
+ 3. Bow Booster (6)
+ 4. Sylvan Aid (MAX)
+ 5. Physical Training (MAX)
+ 6. Bow Mastery (MAX)
+ 7. Fairy Spiral (MAX)
+ 8. Trifling Wind I (MAX)
+ 9. Bow Booster (MAX)
+ 10. Gust Shot (19/20)
+~End_Of_Section~
+Wind Archer 3rd Job Skill Build (MSEA): Everything maxed except Pinpoint Mark.
+ 1. Chilling Fusillade, Featherlight, Circumvention, Pinpoint Mark (1)
+ 2. Albatross (MAX)
+ 3. Chilling Fusillade (MAX)
+ 4. Featherlight (MAX)
+ 5. Circumvention (MAX)
+ 6. Trifling Whim II (MAX)
+ 7. Emerald Flower (MAX)
+ 8. Pinpoint Mark (14/20)
+~End_Of_Section~
+Wind Archer 3rd Job Skill Build (GMS): Everything maxed except Pinpoint Pierce.
+ 1. Sentient Arrow, Featherweight, Second Wind, Pinpoint Pierce (1)
+ 2. Albatross (MAX)
+ 3. Sentient Arrow (MAX)
+ 4. Featherweight (MAX)
+ 5. Second Wind (MAX)
+ 6. Trifling Wind II (MAX)
+ 7. Emerald Flower (MAX)
+ 8. Pinpoint Pierce (14/20)
+~End_Of_Section~
+Wind Archer 4th Job Skill Build (MSEA): Everything maxed.
+ 1. Spiral Vortex, Cyclone, Trifling Whim III, Elite Albatross, Emerald Dust (1)
+ 2. Expert Bow Mastery (MAX)
+ 3. Elite Albatross (MAX)
+ 4. Cyclone (MAX)
+ 5. Spiral Vortex (MAX)
+ 6. Trifling Whim III (MAX)
+ 7. Wind Chime (MAX)
+ 8. Sharp Eyes (MAX)
+ 9. Cygnus Knights (MAX)
+ 10. Emerald Dust (MAX)
+~End_Of_Section~
+Wind Archer 4th Job Skill Build (GMS): Everything maxed.
+ 1. Spiraling Vortex, Song of Heaven, Trifling Wind III, Albatross Max, Emerald Dust (1)
+ 2. Bow Expert (MAX)
+ 3. Albatross Max (MAX)
+ 4. Song of Heaven (MAX)
+ 5. Spiraling Vortex (MAX)
+ 6. Trifling Wind III (MAX)
+ 7. Wind Blessing (MAX)
+ 8. Sharp Eyes (MAX)
+ 9. Call of Cygnus (MAX)
+ 10. Emerald Dust (MAX)
+~End_Of_Section~
+Wind Archer Hyper Skill Build (MSEA):
+ 1. Trifling Whim - Reinforce (MAX)
+ 2. Trifling Whim - Enhance (MAX)
+ 3. Trifling Whim - Double Chance (MAX)
+ 4. Cyclone - Reinforce (MAX)
+ 5. Cyclone - Boss Killer (MAX)
+ 6. Storm Bringer (MAX)
+ 7. Violent Squall (MAX)
+ 8. Glory of Guardians (MAX)
+~End_Of_Section~
+Wind Archer Hyper Skill Build (GMS):
+ 1. Trifling Wind - Reinforce (MAX)
+ 2. Trifling Wind - Enhance (MAX)
+ 3. Trifling Wind - Double Chance (MAX)
+ 4. Song of Heaven - Reinforce (MAX)
+ 5. Song of Heaven - Boss Rush (MAX)
+ 6. Storm Bringer (MAX)
+ 7. Monsoon (MAX)
+ 8. Glory of the Guardians (MAX)
+~End_Of_Section~

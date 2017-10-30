@@ -1,0 +1,65 @@
+Dual Blade 1st Job Skill Build: Everything maxed.
+ 1. Bandit Slash (1)
+ 2. Flash Jump (MAX)
+ 3. Bandit Slash (MAX)
+ 4. Side Step (MAX)
+ 5. Dark Sight (MAX)
+~End_Of_Section~
+Dual Blade 1st Job+ Skill Build: Everything maxed.
+ 1. Tornado Spin (1)
+ 2. Katara Mastery (MAX)
+ 3. Self Haste (MAX)
+ 4. Tornado Spin (MAX)
+~End_Of_Section~
+Dual Blade 2nd Job Skill Build: Everything maxed.
+ 1. Slash Storm (1)
+ 2. Katara Booster (3)
+ 3. Channel Karma (MAX)
+ 4. Physical training (MAX)
+ 5. Katara Booster (MAX)
+ 6. Slash Storm (MAX)
+ 7. Fatal Blow (MAX)
+~End_Of_Section~
+Dual Blade 2nd Job+ Skill Build: Everything maxed.
+ 1. Flying Assaulter (MAX)
+ 2. Venom (MAX)
+ 3. Flash Bang (MAX)
+ 4. Upper Stab (MAX)
+~End_Of_Section~
+Dual Blade 3rd Job Skill Build: Everything maxed.
+ 1. Blade Ascension, Bloody Storm, Chains of Hell (1)
+ 2. Shadow Meld (1)
+ 3. Life Drain (MAX)
+ 4. Mirror Image (MAX)
+ 5. Blade Ascension (MAX)
+ 6. Advanced Dark Sight (MAX)
+ 7. Bloody Storm (MAX)
+ 8. Shadow Meld (MAX)
+ 9. Enveloping Darkness (MAX)
+ 10. Chains of Hell (MAX)
+~End_Of_Section~
+Dual Blade 4th Job Skill Build: Everything maxed.
+ 1. Blade Fury, Sharpness, Katara Expert (1)
+ 2. Thorns (10)
+ 3. Blade Fury (MAX)
+ 4. Toxic Venom (MAX)
+ 5. Sharpness (MAX)
+ 6. Katara Expert (MAX)
+ 6. Thorns (MAX)
+ 7. Maple Warrior (MAX)
+ 8. Final Cut (MAX)
+ 9. Mirrored Target (MAX)
+ 10. Phantom Blow (MAX)
+ 11. Sudden Raid (MAX)
+ 12. Hero's Will (MAX)
+~End_Of_Section~
+Dual Blade Hyper Skill Build:
+ 1. Blade Fury - Reinforce (MAX)
+ 2. Blade Fury - Guardbreak (MAX)
+ 3. Phantom Blow - Reinforce (MAX)
+ 4. Phantom Blow - Guardbreak (MAX)
+ 5. Phantom Blow - Extra Strike (MAX)
+ 6. Blade Clone (MAX)
+ 7. Asura's Anger (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~

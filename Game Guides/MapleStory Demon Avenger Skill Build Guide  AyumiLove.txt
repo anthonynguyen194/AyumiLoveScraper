@@ -1,0 +1,107 @@
+Demon Avenger Beginner Skill Build: Everything maxed.
+ Explanation: These are Demon Avenger innate abilities. No SP required.
+~End_Of_Section~
+Demon Avenger 1st Job Skill Build (MSEA): Everything maxed.
+ [NOTE] 5 SP provided at Level 10.
+ 0. 1 SP automatically added into Double Slash, Release Overload, Absorb Life.
+ 1. Demonic Sharpness (MAX)
+ 2. Absorb Life (MAX)
+ 3. Release Overload (MAX)
+ 4. Double Slash (MAX)
+~End_Of_Section~
+Demon Avenger 1st Job Skill Build (GMS): Everything maxed.
+ [NOTE] 5 SP provided at Level 10.
+ 0. 1 SP automatically added into Double Slash, Release Overload, Life Sap.
+ 1. Demonic Veracity (MAX)
+ 2. Life Sap (MAX)
+ 3. Overload Release (MAX)
+ 4. Double Slash (MAX)
+~End_Of_Section~
+Demon Avenger 2nd Job Skill Build (MSEA): Everything maxed except Demon Strike.
+ 1. Demon Strike, Bat Swarm (1)
+ 2. Official Rage (MAX)
+ 3. Desperado Mastery (MAX)
+ 4. Inner Strength (MAX)
+ 5. Solid Wall (MAX)
+ 6. Demon Strike (19/20)
+ 7. Bat Swarm (MAX)
+ 8. Demon Booster (MAX)
+~End_Of_Section~
+Demon Avenger 2nd Job Skill Build (GMS): Everything maxed except Demon Strike.
+ 1. Demon Strike, Bat Swarm (1)
+ 2. Abyssal Connection (MAX)
+ 3. Desperado Mastery (MAX)
+ 4. Rage Within (MAX)
+ 5. Unbreakable Steel (MAX)
+ 6. Demon Strike (19/20)
+ 7. Bat Swarm (MAX)
+ 8. Battle Pact (MAX)
+~End_Of_Section~
+Demon Avenger 3rd Job Skill Build (MSEA): Everything maxed except Shield Charge.
+ 1. Moonlight Slash, Shield Charge, Inhale Vitality, Ides Exceed Pain (1)
+ 2. Diabolic Recovery (MAX)
+ 3. Ides Exceed Pain (11/20)
+ 4. Advanced Absorb Life (MAX)
+ 5. Moonlight Slash (MAX)
+ 6. Ides Exceed Pain (MAX)
+ 7. Reflect Evil (MAX)
+ 8. Inhale Vitality (MAX)
+ 9. Shield Charge (19/20)
+~End_Of_Section~
+Demon Avenger 3rd Job Skill Build (GMS): Everything maxed except Shield Charge.
+ 1. Lunar Slash, Shield Charge, Vitality Veil, Pain Dampener (1)
+ 2. Diabolic Recovery (MAX)
+ 3. Pain Dampener (11/20)
+ 4. Advanced Life Sap (MAX)
+ 5. Lunar Slash (MAX)
+ 6. Pain Dampener (MAX)
+ 7. Ward Evil (MAX)
+ 8. Vitality Veil (MAX)
+ 9. Shield Charge (19/20)
+~End_Of_Section~
+Demon Avenger 4th Job Skill Build (MSEA): Everything maxed.
+ 1. Execution, Advanced Desperado Mastery, Shield Chasing, Enhanced Exceed (1)
+ 2. Armor Break, Bloody Imprison, Overwhelming Power (1)
+ 3. Execution (MAX)
+ 4. Overwhelming Power (MAX)
+ 5. Advanced Desperado Mastery (MAX)
+ 6. Enhanced Exceed (MAX)
+ 7. Maple Warrior (MAX)
+ 8. Armor Break (MAX)
+ 9. Bloody Imprison (MAX)
+ 10. Shield Chasing (MAX)
+ 11. Defense Expertise (MAX)
+~End_Of_Section~
+Demon Avenger 4th Job Skill Build (GMS): Everything maxed.
+ 1. Execution, Advanced Desperado Mastery, Nether Shield, Infernal Exceed (1)
+ 2. Nether Slice, Blood Prison, Overwhelming Power (1)
+ 3. Execution (MAX)
+ 4. Overwhelming Power (MAX)
+ 5. Advanced Desperado Mastery (MAX)
+ 6. Infernal Exceed (MAX)
+ 7. Maple Warrior (MAX)
+ 8. Nether Slice (MAX)
+ 9. Blood Prison (MAX)
+ 10. Nether Shield (MAX)
+ 11. Defense Expertise (MAX)
+~End_Of_Section~
+Demon Avenger Hyper Skill Build Guide (MSEA):
+ 1. Exceed - Reinforce (MAX)
+ 2. Exceed - Reduce Overload (MAX)
+ 3. Exceed - Bonus Chance (MAX)
+ 4. Shield Chasing - Reinforce (MAX)
+ 5. Shield Chasing - Extra Target (MAX)
+ 6. Forbidden Contract (MAX)
+ 7. Thousand Swords (MAX)
+ 8. Demonic Fortitude (MAX)
+~End_Of_Section~
+Demon Avenger Hyper Skill Build Guide (GMS):
+ 1. Exceed - Reinforce (MAX)
+ 2. Exceed - Reduce Overload (MAX)
+ 3. Exceed - Opportunity (MAX)
+ 4. Nether Shield - Reinforce (MAX)
+ 5. Nether Shield - Spread (MAX)
+ 6. Forbidden Contract (MAX)
+ 7. Thousand Swords (MAX)
+ 8. Demonic Fortitude (MAX)
+~End_Of_Section~

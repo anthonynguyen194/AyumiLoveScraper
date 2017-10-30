@@ -1,0 +1,58 @@
+Mihile Beginner Skill Build: Everything maxed.
+ All the skills listed above are Mihile innate abilities. No SP required.
+~End_Of_Section~
+Mihile 1st Job Skill Build (65 SP): Everything maxed.
+ 0. Royal Guard (auto-maxed)
+ 1. Soul Blade, Soul Shield (1)
+ 2. Weightless Heart (MAX)
+ 3. Soul Devotion (MAX)
+ 4. Soul Blade (MAX)
+ 5. Soul Shield (MAX)
+ 6. HP Boost (MAX)
+~End_Of_Section~
+Mihile 2nd Job Skill Build (94 SP): Everything maxed except Soul Driver.
+ 1. Radiant Driver, Soul Driver (1)
+ 2. Sword Mastery (MAX)
+ 3. Rally (MAX)
+ 4. Physical Training (MAX)
+ 5. Sword Booster (MAX)
+ 6. Final Attack (MAX)
+ 7. Radiant Driver (MAX)
+ 8. Soul Driver (14/20)
+~End_Of_Section~
+Mihile 3rd Job Skill Build (124 SP): Everything maxed except Trinity Attack.
+ 0. Advanced Royal Guard (auto-maxed)
+ 1. Trinity Attack, Self Recovery, Intense Focus, Soul Link (1)
+ 2. Radiant Charge (MAX)
+ 3. Self Recovery (MAX)
+ 4. Intense Focus (MAX)
+ 5. Trinity Attack (14/20)
+ 6. Enduring Spirit (MAX)
+ 7. Soul Link (MAX)
+ 8. Magic Crash (MAX)
+ 9. Righteous Indignation (MAX)
+~End_Of_Section~
+Mihile 4th Job Skill Build (304 SP): Everything maxed.
+ 1. Radiant Cross, Expert Sword Mastery, Advanced Final Attack, Power Stance (1)
+ 2. Combat Mastery, Four-Point Assault, Soul Asylum (1)
+ 3. Roiling Soul (1)
+ 4. Expert Sword Mastery (MAX)
+ 5. Advanced Final Attack (MAX)
+ 6. Radiant Cross (MAX)
+ 7. Combat Mastery (MAX)
+ 8. Power Stance (MAX)
+ 9. Roiling Soul (MAX)
+ 10. Four-Point Assault (MAX)
+ 11. Call of Cygnus (MAX)
+ 12. Soul Asylum (MAX)
+~End_Of_Section~
+Mihile Hyper Skill Build Guide:
+ 1. Radiant Cross - Reinforce (MAX)
+ 2. Radiant Cross - Extra Strike (MAX)
+ 3. Radiant Cross - Spread (MAX)
+ 4. Four-Point Assault - Reinforce (MAX)
+ 5. Four-Point Assault - Extra Strike (MAX)
+ 6. Sacred Cube (MAX)
+ 7. Charging Light (MAX)
+ 8. Queen of Tomorrow (MAX)
+~End_Of_Section~

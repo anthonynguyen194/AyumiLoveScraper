@@ -1,0 +1,55 @@
+Archer Skill Build Guide: Everything maxed.
+ 1. Archer Mastery, Arrow Blow (1)
+ 2. Double Jump (MAX)
+ 3. Archer Mastery (MAX)
+ 4. Arrow Blow (MAX)
+ 5. Critical Shot (MAX)
+Crossbowman - Archer 2nd Job Skill Build: Everything maxed except Iron Arrow.
+ 0. Rangefinder is auto-maxed.
+ 1. Iron Arrow (1) Soul Arrow: Crossbow (1)
+ 2. Crossbow Mastery (MAX)
+ 3. Crossbow Booster (3)
+ 4. Soul Arrow: Crossbow (MAX)
+ 5. Physical Training (MAX)
+ 6. Iron Arrow (19/20)
+ 7. Crossbow Booster (MAX)
+ 8. Final Attack: Crossbow (MAX)
+ 9. Net Toss (MAX)
+~End_Of_Section~
+Sniper - Archer 3rd Job Skill Build: Everything maxed except Dragon's Breath.
+ 1. Hookshot, Dragon's Breath, Explosive Bolt, Freezer (1)
+ 2. Reckless Hunt: Crossbow (MAX)
+ 3. Marksmanship (MAX)
+ 4. Explosive Bolt (MAX)
+ 5. Freezer (MAX)
+ 6. Hookshot (MAX)
+ 7. Mortal Blow (MAX)
+ 8. Aggressive Resistance (MAX)
+ 9. Evasion Boost (MAX)
+ 10. Pain Killer (MAX)
+ 11. Dragon's Breath (4/10)
+~End_Of_Section~
+Marksman - Archer 4th Job Skill Build: Everything maxed.
+ 1. Piercing Arrow, Snipe, Bolt Surplus, Vital Hunter, Arrow Illusion (1)
+ 2. Bolt Surplus (MAX)
+ 3. Crossbow Expert (MAX)
+ 4. Piercing Arrow (MAX)
+ 5. Sharp Eyes (MAX)
+ 6. Illusion Step (MAX)
+ 7. Snipe (MAX)
+ 8. Arrow Illusion (MAX)
+ 9. Last Man Standing (MAX)
+ 10. Vital Hunter (MAX)
+ 11. Maple Warrior (MAX)
+ 12. Hero Will (MAX)
+~End_Of_Section~
+Marksman Hyper Skill Build
+ 1. Piercing Arrow - Reinforce (MAX)
+ 2. Piercing Arrow - Extra Strike (MAX)
+ 3. Snipe - Limit Break (MAX)
+ 4. Snipe - Cooldown Cutter (MAX)
+ 5. Snipe - Reinforce (MAX)
+ 6. Bullseye Shot (MAX)
+ 7. High Speed Shot (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~

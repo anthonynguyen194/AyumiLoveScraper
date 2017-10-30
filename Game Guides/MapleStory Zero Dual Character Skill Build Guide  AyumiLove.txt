@@ -1,0 +1,62 @@
+Alpha Skill Build: Everything maxed!
+ 0. Free SP from Level 100 Quest: Piercing Thrust (1), Shadow Strike (1)
+ 1. Long Sword Mastery (MAX), Moon Strike (1)
+ 2. Save SP until Level 110
+ 3. Time Generator (1), Flash Assault (MAX), SP Saved (19)
+ 4. Save SP until Level 115
+ 5. Spin Cutter (MAX), SP Saved (24)
+ 6. Save SP until Level 120
+ 7. Rolling Cross (MAX), SP Saved (19)
+ 8. Rolling Assault (MAX), Reinforce Body (MAX), SP Saved (9)
+ 9. Save SP until Level 140
+ 10. Wind Cutter (MAX), SP Saved (29)
+ 11. Save SP until Level 145
+ 12. Wind Striker (1), SP Saved (43)
+ 13. Save SP until Level 150
+ 14. Advanced Spin Cutter (MAX), Storm Break (18), Saved SP (20)
+ 15. Save SP until Level 160
+ 16. Advanced Rolling Cross (MAX), Divine Leer (MAX), Saved SP (0)
+ 17. Advanced Rolling Assault (MAX)
+ 18. Storm Break (MAX)
+ 19. Advanced Storm Break (MAX)
+ 20. Wind Striker (MAX)
+ 21. Time Generator (MAX)
+ 22. Moon Strike (MAX)
+ 23. Piercing Thrust (MAX)
+ 24. Shadow Strike (MAX)
+~End_Of_Section~
+Beta Skill Build: Everything maxed!
+ 0. Free SP from Level 100 Quest: Air Raid (2)
+ 1. Heavy Sword Mastery (MAX), Rising Slash (1)
+ 2. Save SP until Level 105
+ 3. Flash Cut (MAX)
+ 4. Save SP until Level 110
+ 5. Solid Body (MAX)
+ 6. Rising Slash (MAX)
+ 7. Air Raid (5)
+ 8. Spin Driver (1)
+ 9. Air Raid (MAX)
+ 10. Save SP until Level 125
+ 11. Wheel Wind (MAX)
+ 12. Save SP until Level 130
+ 13. Armor Split (1)
+ 14. Save SP until Level 135
+ 15. Giga Crash (MAX)
+ 16. Save SP until Level 140
+ 17. Falling Star (MAX)
+ 18. Save SP until Level 145
+ 19. Earth Break (MAX)
+ 20. Save SP until Level 150
+ 13. Air Riot (MAX)
+ 14. Throwing Weapon (MAX)
+ 15. Advanced Throwing Weapon (MAX)
+ 16. Advanced Wheel Wind (1)
+ 17. Immune Barrier (MAX)
+ 18. Advanced Earth Break (MAX)
+ 19. Armor Split (16)
+ 20. Spin Driver (11)
+ 21. Critical Bind (MAX)
+ 22. Spin Driver (MAX)
+ 23. Armor Split (MAX)
+ 24. Advanced Wheel Wind (MAX)
+~End_Of_Section~

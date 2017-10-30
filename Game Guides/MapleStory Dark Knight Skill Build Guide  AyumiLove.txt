@@ -1,0 +1,57 @@
+Swordman Skill Build Guide: Everything maxed with extra 2 SP available.
+ 1. Slash Blast (1), War Leap (3)
+ 2. War Leap (MAX)
+ 3. Slash Blast (MAX)
+ 4. Warrior Mastery (MAX)
+ 5. Iron Body (MAX)
+Spearman Skill Build Guide:  Everything maxed except Piercing Drive.
+ 0. Evil Eye is auto-maxed.
+ 1. Spear Sweep, Piercing Drive (1), Weapon Mastery (2)
+ 1. Weapon Mastery (5)
+ 2. Weapon Booster (6)
+ 3. Weapon Mastery (MAX)
+ 4. Physical Training (MAX)
+ 5. Spear Sweep (MAX)
+ 6. Piercing Drive (19/20)
+ 7. Weapon Booster (MAX)
+ 8. Final Attack (MAX)
+ 9. Iron Will (3)
+ 10. Hyper Body (MAX)
+ 11. Iron Will (MAX)
+~End_Of_Section~
+Berserker Skill Build Guide: Everything maxed except Evil Eye Domination.
+ 1. Rush, La Mancha Spear, Lord of Darkness (1)
+ 2. Lord of Darkness (MAX)
+ 3. Cross Surge (MAX)
+ 4. Hex of the Evil Eye (MAX)
+ 5. La Mancha Spear (MAX)
+ 6. Rush (MAX)
+ 7. Evil Eye Shock (MAX)
+ 8. Endure (MAX)
+ 9. Evil Eye of Domination (4/10)
+~End_Of_Section~
+Dark Knight Skill Build Guide: Everything maxed.
+ 1. Barricade Mastery (1), Dark Impale (2)
+ 2. Dark Impale (MAX)
+ 3. Final Pact (MAX)
+ 4. Barricade Mastery (MAX)
+ 5. Stance (MAX)
+ 6. Gungnir's Descent (1)
+ 7. Sacrifice (MAX)
+ 8. Gungnir's Descent (MAX)
+ 9. Hero's Will (1)
+ 10. Magic Crash (MAX)
+ 11. Maple Warrior (MAX)
+ 12. Revenge of the Evil Eye (MAX)
+ 13. Hero's Will (MAX)
+~End_Of_Section~
+Dark Knight Hyper Skill Build Guide:
+ 1. Gungnir's Descent - Guardbreak
+ 2. Gungnir's Descent - Boss Rush
+ 3. Gungnir's Descent - Reinforce
+ 4. Final Pact - Damage
+ 5. Final Pact - Critical Chance
+ 6. Dark Thirst
+ 7. Nightshade Explosion
+ 8. Epic Adventure
+~End_Of_Section~

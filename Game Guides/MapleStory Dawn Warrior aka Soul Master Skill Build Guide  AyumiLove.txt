@@ -1,0 +1,106 @@
+Soul Master 1st Job Skill Build (MSEA): Everything maxed except Triple Slash.
+ 1. Triple Slash (1)
+ 2. Inner Voice (MAX)
+ 3. Sword of Light (MAX)
+ 4. Triple Slash (19/20)
+ 5. Element Infusion Soul (MAX)
+~End_Of_Section~
+Soul Master 1st Job Skill Build (GMS): Everything maxed except Triple Slash.
+ 1. Triple Slash (1)
+ 2. Inner Voice (MAX)
+ 3. Hand of Light (MAX)
+ 4. Triple Slash (19/20)
+ 5. Soul Element (MAX)
+~End_Of_Section~
+Soul Master 2nd Job Skill Build (MSEA): Everything maxed except Inverse Slash.
+ 1. Luna Stance, Luna Slice, Inverse Slash, Sword Mastery (1)
+ 2. Inner Light (MAX)
+ 3. Body and Soul (MAX)
+ 4. Sword Mastery (5)
+ 5. Nimble Finger (6)
+ 6. Sword Mastery (MAX)
+ 7. Nimble Finger (MAX)
+ 8. Luna Stance (MAX)
+ 9. Inverse Slash (19/20)
+ 10. Luna Slice (MAX)
+~End_Of_Section~
+Soul Master 2nd Job Skill Build (GMS): Everything maxed except Trace Cut.
+ 1. Falling Moon, Flicker, Trace Cut, Sword Mastery (1)
+ 2. Divine Hand (MAX)
+ 3. Inner Harmony (MAX)
+ 4. Sword Mastery (5)
+ 5. Soul Speed (6)
+ 6. Sword Mastery (MAX)
+ 7. Soul Speed (MAX)
+ 8. Falling Moon (MAX)
+ 9. Trace Cut (19/20)
+ 10. Flicker (MAX)
+~End_Of_Section~
+Dawn Warrior 3rd Job Skill Build (MSEA): Everything maxed except Moon Cross.
+ 1. Moon Shadow, Moon Cross, Sol Stance, Soul Resilience (1)
+ 2. Inner Focus (MAX)
+ 3. Moon Shadow (MAX)
+ 4. Soul of Resilience (MAX)
+ 5. Soul Guardian (MAX)
+ 6. True Sight (MAX)
+ 7. Moon Cross (14/20)
+ 8. Sol Stance (MAX)
+~End_Of_Section~
+Dawn Warrior 3rd Job Skill Build (GMS): Everything maxed except Moon Cross.
+ 1. Moon Shadow, Moon Cross, Rising Sun, Will of Steel (1)
+ 2. Inner Voice (MAX)
+ 3. Moon Shadow (MAX)
+ 4. Will of Steel (MAX)
+ 5. Soul of the Guardian (MAX)
+ 6. True Sight (MAX)
+ 7. Moon Cross (14/20)
+ 8. Rising Sun (MAX)
+~End_Of_Section~
+Dawn Warrior 4th Job Skill Build (MSEA): Everything maxed!
+ 1. Crescent Divide, Swirling Moon, Expert Sword Mastery, Soluna's Harmony (1)
+ 2. Harmony of the Sword (1)
+ 3. Soluna's Harmony (10)
+ 4. Crescent Divide (MAX)
+ 5. Expert Sword Mastery (MAX)
+ 6. Harmony of the Sword (MAX)
+ 7. Foresight (MAX)
+ 8. Soluna's Harmony (MAX)
+ 9. Soul Pledge (MAX)
+ 10. Cygnus Knights (MAX)
+ 11. Swirling Moon (MAX)
+ 12. Soul Penetration (MAX)
+~End_Of_Section~
+Dawn Warrior 4th Job Skill Build (GMS): Everything maxed!
+ 1. Crescent Divide, Moon Dancer, Student of the Blade, Equinox Cycle (1)
+ 2. Master of the Sword (1)
+ 3. Equinox Cycle (10)
+ 4. Crescent Divide (MAX)
+ 5. Student of the Blade (MAX)
+ 6. Master of the Sword (MAX)
+ 7. Unpredictable (MAX)
+ 8. Equinox Cycle (MAX)
+ 9. Soul Pledge (MAX)
+ 10. Call of Cygnus (MAX)
+ 11. Moon Dancer (MAX)
+ 12. Impaling Rays (MAX)
+~End_Of_Section~
+Soul Master Hyper Skill Build (MSEA):
+ 1. Swirling Splitter - Reinforce (MAX)
+ 2. Swirling Splitter - Boss Killer (MAX)
+ 3. Divide and Pierce - Reinforce (MAX)
+ 4. Divide and Pierce - Bonus Attack (MAX)
+ 5. Divide and Pierce - Extra Target (MAX)
+ 6. Forge of Light (MAX)
+ 7. Cross the Sticks (MAX)
+ 8. Glory of Guardians (MAX)
+~End_Of_Section~
+Soul Master Hyper Skill Build (GMS):
+ 1. Careening Dance - Reinforce (MAX)
+ 2. Careening Dance - Boss Rush (MAX)
+ 3. Divide and Pierce - Reinforce (MAX)
+ 4. Divide and Pierce - Extra Strike (MAX)
+ 5. Divide and Pierce - Spread (MAX)
+ 6. Soul Forge (MAX)
+ 7. Styx Crossing (MAX)
+ 8. Glory of the Guardians (MAX)
+~End_Of_Section~

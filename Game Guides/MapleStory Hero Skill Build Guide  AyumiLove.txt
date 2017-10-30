@@ -1,0 +1,52 @@
+Swordman Skill Build Guide: Everything maxed with extra 2 SP available.
+ 1. Slash Blast (1), War Leap (3)
+ 2. War Leap (MAX)
+ 3. Slash Blast (MAX)
+ 4. Warrior Mastery (MAX)
+ 5. Iron Body (MAX)
+Fighter Skill Build Guide: Everything maxed except Brandish.
+ 0. Combo Attack is auto-maxed.
+ 1. Brandish, Combo Fury, Rage, Weapon Mastery (1)
+ 2. Weapon Mastery (MAX)
+ 3. Rage (MAX)
+ 4. Physical Training (MAX)
+ 5. Weapon Booster (MAX)
+ 6. Combo Fury (MAX)
+ 7. Brandish (19/20)
+ 8. Final Attack (MAX)
+~End_Of_Section~
+Crusader Skill Build Guide: Everything maxed except Intrepid Slash.
+ 1. Intrepid Slash, Rush, Panic, Self Recovery (1)
+ 2. Rush (MAX)
+ 3. Self Recovery (MAX)
+ 4. Combo Synergy (MAX)
+ 5. Chance Attack (MAX)
+ 6. Panic (MAX)
+ 3. Intrepid Slash (14/20)
+ 8. Endure (MAX)
+ 9. Shout (MAX)
+~End_Of_Section~
+Hero Skill Build Guide: Everything maxed.
+ 1. Raging Blow, Combat Mastery, Advanced Final Attack (1)
+ 2. Advanced Combo (MAX)
+ 3. Puncture, Enrage (1)
+ 4. Advanced Final Attack (MAX)
+ 5. Combat Mastery (MAX)
+ 6. Raging Blow (MAX)
+ 7. Power Stance (MAX)
+ 8. Enrage (MAX)
+ 9. Puncture (MAX)
+ 10. Maple Warrior (MAX)
+ 11. Magic Crash (MAX)
+ 12. Hero's Will (MAX)
+~End_Of_Section~
+Hero Hyper Skill Build Guide:
+ 1. Raging Blow - Reinforce (MAX)
+ 2. Raging Blow - Extra Strike (MAX)
+ 3. Advanced Final Attack - Ferocity (MAX)
+ 4. Advanced Combo - Reinforce (MAX)
+ 5. Advanced Combo - Boss Rush (MAX)
+ 6. Cry Valhalla (MAX)
+ 7. Rising Rage (MAX)
+ 8. Epic Adventure (MAX)
+~End_Of_Section~

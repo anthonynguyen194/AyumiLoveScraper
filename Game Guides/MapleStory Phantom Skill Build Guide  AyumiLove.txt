@@ -1,0 +1,56 @@
+Phantom Beginner Skill Build: Everything maxed.
+ Explanation: These are Phantom Thief innate abilities. No SP required.
+~End_Of_Section~
+Skill Build: Everything maxed.
+ 1. Double Entendre (1)
+ 2. Phantom Swiftness (MAX)
+ 3. Double Entendre (MAX)
+ 4. Impeccable Memory I (MAX)
+ 5. Feather Foot (MAX)
+~End_Of_Section~
+Phantom 2nd Job Skill Build: Everything maxed except Calling Card.
+ 1. Calling Card, Mille Cartes, Impeccable Memory II (1)
+ 2. Cane Mastery (5)
+ 3. Cane Booster (6)
+ 4. Cane Mastery (MAX)
+ 5. Devil's Luck (MAX)
+ 6. Calling Card (19/20)
+ 7. Carte Blanche (MAX)
+ 8. Impeccable Memory II (MAX)
+ 9. Cane Booster (MAX)
+ 10. Mille Cartes (MAX)
+~End_Of_Section~
+Phantom 3rd Job Skill Build: Everything maxed except Blason.
+ 1. Blason, Rapier Wit, Impeccable Memory III (1)
+ 2. Clair de Lune (MAX)
+ 3. Final Feint (MAX)
+ 4. Blason (14/20)
+ 5. Piercing Vision (MAX)
+ 6. Mist Mask (MAX)
+ 7. Impeccable Memory III (MAX) - Steal Priest's Holy Symbol
+ 8. Rapier Wit (MAX)
+ 9. Bad Luck Ward (MAX)
+~End_Of_Section~
+Phantom 4th Job Skill Build: Everything maxed.
+ 1. Mille Aiguilles, Penombre, Tempest, Impeccable Memory IV (1)
+ 2. Cane Expert (MAX)
+ 3. Impeccable Memory IV (MAX)
+ 4. Priere D'Aria (MAX)
+ 5. Penombre (MAX)
+ 6. Mille Aiguilles (MAX)
+ 7. Carte Noir (MAX)
+ 8. Tempest (MAX)
+ 9. Maple Warrior (MAX)
+ 10. Vol D'Ame (MAX)
+ 11. Hero's Will (MAX)
+~End_Of_Section~
+Phantom Hyper Skill Build:
+ 1. Tempest - Reinforce (MAX)
+ 2. Mille Aiguilles - Guardbreak (MAX)
+ 3. Mille Aiguilles - Reinforce (MAX)
+ 4. Bad Luck Ward - Max HP (MAX)
+ 5. Bad Luck Ward - Max MP (MAX)
+ 6. Final Judgment (MAX)
+ 7. Carte Rose Finale (MAX)
+ 8. Heroic Memories (MAX)
+~End_Of_Section~

@@ -1,0 +1,57 @@
+Skill Build: None.
+~End_Of_Section~
+Demon Slayer 1st Job Skill Build: Everything maxed.
+ 1. Demon Lash, Grim Scythe (1)
+ 2. Shadow Swiftness (MAX)
+ 3. Demon Lash (MAX)
+ 4. Battle Pact (MAX)
+ 5. HP Boost (MAX)
+ 6. Grim Scythe (MAX)
+~End_Of_Section~
+Demon Slayer 2nd Job Skill Build: Everything maxed except Soul Eater.
+ 1. Barbed Slash, Soul Eater, Dark Thrust (1)
+ 2. Weapon Mastery (MAX)
+ 3. Outrage (MAX)
+ 4. Physical Training (MAX)
+ 5. Soul Eater (18/20)
+ 6. Vengeance (MAX)
+ 7. Dark Thrust (MAX)
+ 8. Chaos Lock (MAX)
+~End_Of_Section~
+Demon Slayer 3rd Job Skill Build: Everything maxed except Vortex of Doom.
+ 1. Demon Arch Lash (MAX)
+ 2. Carrion Breath (1)
+ 3. Fury (MAX)
+ 4. Focused Fury (MAX)
+ 5. Carrion Breath (MAX)
+ 6. Insult to Injury (MAX)
+ 7. Possessed Aegis (MAX)
+ 8. Black-Hearted Strength (MAX)
+ 9. Raven Storm (MAX)
+ 10. Judgement (MAX)
+ 11. Vortex of Doom (18/20)
+~End_Of_Section~
+Demon Slayer 4th Job Skill Build: Everything maxed.
+ 1. Demon Thrash, Leech Aura, Demon Cry, Obsidian Skin (1)
+ 2. Demon Impact, Dark Metamorphosis, Boundless Rage (1)
+ 3. Barricade Mastery (MAX)
+ 4. Demon Cry (MAX)
+ 5. Dark Metamorphosis (MAX)
+ 6. Demon Impact (MAX)
+ 7. Boundless Rage (MAX)
+ 8. Binding Darkness (MAX)
+ 9. Maple Warrior (MAX)
+ 10. Leech Aura (MAX)
+ 11. Obsidian Skin (MAX)
+ 12. Infernal Concussion (MAX)
+~End_Of_Section~
+Demon Slayer Hyper Skill Build Guide:
+ 1. Demon Lash - Fury (MAX)
+ 2. Demon Lash - Reinforce (MAX)
+ 3. Demon Lash - Reinforce Duration (MAX)
+ 4. Demon Impact - Extra Strike (MAX)
+ 5. Dark Metamorphosis - Enhance (MAX)
+ 6. Blue Blood (MAX)
+ 7. Cerberus Chomp (MAX)
+ 8. Demonic Fortitude (MAX)
+~End_Of_Section~
